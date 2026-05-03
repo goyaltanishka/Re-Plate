@@ -1,0 +1,7 @@
+{
+  "name": "Re:Plate: Predictive Kitchen Ledger",
+  "description": "A systems reboot for domestic food management. Re:Plate uses multivariate forecasting to identify food waste risks and generates AI-driven 'Rescue Recipes' prioritizing high-risk, high-cost ingredients while ensuring safety with a strict Allergy Guard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
